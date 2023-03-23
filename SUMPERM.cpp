@@ -52,3 +52,4 @@ int main() {
 	}
 	return 0;
 }
+//https://www.codechef.com/problems/SUMPERM
